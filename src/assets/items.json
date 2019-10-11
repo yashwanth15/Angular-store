@@ -1,0 +1,6 @@
+[
+    {"item":"Product 1","price":35.50,"image":"../assets/Images/APL.jpg","desc":"In the mean time, keep it real babe!","quantity":1},
+    {"item":"Product 2","price":35.50,"image":"../assets/Images/AVC.jpg","desc":"Winter is coming!","quantity":1},
+    {"item":"Product 3","price":35.50,"image":"../assets/Images/BAN.jpg","desc":"Pivot!","quantity":1},
+    {"item":"Product 4","price":35.50,"image":"../assets/Images/CTP.jpg","desc":"What you doing?","quantity":1}
+  ]
